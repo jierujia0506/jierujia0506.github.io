@@ -32,7 +32,7 @@ redirect_from:
 
 3.学习态度端正，具备一定的理论基础与代码能力。
 
-如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，欢迎联系（Email: jierujia@sxu.edu.cn）。
+如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，**欢迎联系（Email: jierujia@sxu.edu.cn）**。
 
 
 
@@ -66,61 +66,47 @@ redirect_from:
 - \[**Publications**\]: Jun. 30, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)!  🎉
 
 
-# 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?user=uxe3-6EAAAAJ&hl=zh-CN)
+# 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?hl=zh-CN&user=DwuvUCkAAAAJ)
 (# denotes the corresponding author)
 # 2026
-- [8] Xincheng Sun, Ruitao Pu, Guangsi Shi, Zhenwen Ren, Peng Hu, **Yuan Sun#**, Learning with Admissibility: Robust Fuzzy Hashing for Cross-Modal Retrieval with Noisy Labels, **ICML 2026 (CCF-A类), Spotlight**. 
-- [7] Chao Su, Shuying Li, Ruitao Pu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, Correspondence Cognitive Learning for Multi-Modal Object Re-Identification, **ICML 2026 (CCF-A类)**.
-- [6] Jiali Chen, Ruitao Pu, Dezhong Peng, Xiaomin Song, Yingke Chen, **Yuan Sun#**, External Guidance Incomplete Cross-modal Hashing, **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
-- [5] Qiya Song, Yiqiang Xie, **Yuan Sun#**, Renwei Dian, Xudong Kang, Robust Remote Sensing Image–Text Retrieval with Noisy Correspondence, **CVPR 2026 (CCF-A类)**.
-- [4] Shilin Xu, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**, External Vision Guided Incomplete Multi-view Classification, **CVPR 2026 (CCF-A类), Highlight**.
-- [3] Xingfeng Li, Hao Pan, Honglin Yuan, **Yuan Sun#**, Xujian Zhao, Jiaqi Lin, Zhenwen Ren#, Anti-Degradation Lifelong Multi-View Clustering, **CVPR 2026 (CCF-A类)**.
-- [2] Yizhi Liu, Ruitao Pu, Shilin Xu, Yingke Chen, Quanhui Liu, **Yuan Sun#**, [Neighbor-aware Instance Refining with Noisy Labels for Cross-Modal Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/39567), **AAAI 2026 (CCF-A类)**. [Code](https://github.com/perquisite/NIRNL)
-- [1] Chao Su, Yanan Li, Xu Wang, Yingke Chen, Huiming Zheng, Dezhong Peng#, **Yuan Sun#**, [Ambiguity-Tolerant Cross-Modal Hashing with Partial Labels](https://ojs.aaai.org/index.php/AAAI/article/view/39760), **AAAI 2026 (CCF-A类), Oral**. [Code](https://github.com/Rose-bud/ATCH)
+- [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan. GroupSD: Self-Distillation from Intermediate ViT Layers for 
+Generalizable Person Re-identification, IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.
+- [2] Tao Yan,Yingying Wang,Yuhua Qian,Jiangfeng Zhang,Feijiang Li,Peng Wu,Lu Chen,**Jieru Jia**,Xiaoying Guo. M3D: A Benchmark Dataset and Model for Microscopic 3D Shape Reconstruction, **IEEE Transactions on Image Processing.（CCF-A, 一区Top）**.
+- [3] **Jieru Jia**, Huidi Xie, Yuhua Qian, Yantao Song, Tao Yan, Lichao Zhang, Chao Li. FracMix:A Fractional Fourier Based Augmentationfor Generalizable Person Re-Identification, **IEEE Signal Processing Letters 2026，（CCF-B，SCI-2区）**.
 
 # 2025
-- [11] Yuhang Lan, Shilin Xu, Chao Su, Run Ye, Dezhong Peng, **Yuan Sun#**, [Multi-view Hashing Classification](https://dl.acm.org/doi/abs/10.1145/3746027.3755692), **ACM MM 2025 (CCF-A类)**. [Code](https://github.com/Yuhang-lan04/MHC)
-- [10] Siyuan Duan, Wenyuan Wu, Peng Hu, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, [CoPINN: Cognitive Physics-informed Neural Network](https://openreview.net/pdf?id=4vAa0A98xI), **ICML 2025 (CCF-A类), Spotlight**. [Code](https://github.com/siyuancncd/CoPINN?tab=readme-ov-file)
-- [9] Ruitao Pu, Yang Qin, Xiaomin Song, Dezhong Peng, Zhenwen Ren, **Yuan Sun#**,[SHE: Streaming-media Hashing Retrieval](https://openreview.net/pdf?id=JqLKV0L5hM), **ICML 2025 (CCF-A类)**. [Code](https://github.com/perquisite/SHE)
-- [8] Honglin Yuan, Xingfeng Li, Jian Dai, Xiaojian You, **Yuan Sun#**, Zhenwen Ren#, [Deep Streaming View Clustering](https://openreview.net/pdf?id=GkVirCa8wA), **ICML 2025 (CCF-A类)** [Code](https://github.com/hl-yuan/DSVC)
-- [7] Xuyang Wang, Siyuan Duan, Qizhi Li, Guiduo Duan, **Yuan Sun#**, Dezhong Peng#, [Reliable Disentanglement Multi-view Learning Against View Adversarial Attacks](https://www.ijcai.org/proceedings/2025/0720.pdf), **IJCAI 2025 (CCF-A类)**. [Code](https://github.com/Willy1005/2025-IJCAI-RDML)
-- [6] Deyin Zhuang, Jian Dai, Xingfeng Li, Xi Wu, **Yuan Sun#**, Zhenwen Ren#, [Robust Graph Contrastive Learning for Incomplete Multi-view Clustering](https://www.ijcai.org/proceedings/2025/810), **IJCAI 2025 (CCF-A类)**. [Code](https://github.com/DYZ163/RGCL)
-- [5] Xingfeng Li, **Yuan Sun#**, Xuedong Li, Zhenwen Ren, Consistent and Specific Hashing for image set classification, **Neural Networks (中科院二区)**.
-- [4] **Yuan Sun**, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu, [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html), **CVPR 2025 (CCF-A类), Highlight**. [Code](https://github.com/sunyuan-cs/2025-CVPR-ROLL)
-- [3] Honglin Yuan, **Yuan Sun#**, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren#, [Prototype Matching Learning for Incomplete Multi-view Clustering](https://ieeexplore.ieee.org/document/10847794), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**. **(ESI Highly Cited Paper)**. [Code](https://github.com/hl-yuan/PMIMC)
-- [2] Ruitao Pu, **Yuan Sun#**, Yang Qin, Zhenwen Ren, Xiaomin Song, Huiming Zheng, Dezhong Peng, Robust Self-paced Hashing for Cross-Modal Retrieval with Noisy Labels, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/perquisite/RSHNL)
-- [1] Shilin Xu, **Yuan Sun#**, Xingfeng Li, Siyuan Duan, Zhenwen Ren, Zheng Liu, Dezhong Peng#, Noisy Label Calibration for Multi-view Classification, **AAAI 2025 (CCF-A类)**. [Code](https://github.com/sstaree/NLC)
+- [1] **Jieru Jia**, Huidi Xie, Qin Huang, Yantao Song, Peng Wu. [DiverseReID: Towards generalizable person re-identification via Dynamic Style Hallucination and decoupled domain experts,](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004824), **Neural Networks, 2025, 189(107602). （CCF-B，SCI 1区）**. [Code](https://github.com/)
+- [2] Tao Yan, Yingying Wang, Jiangfeng Zhang, Yuhua Qian*, **Jieru Jia**, Lu Chen, Feijiang Li. [Frequency-Aware Deep Depth from Focus, International Joint Conference on Artificial Intelligence](https://dl.acm.org/doi/abs/10.24963/ijcai.2025/241), **IJCAI 2025 (CCF-A)**.
+- [3] Yantao Song, Xiangchong Jia, **Jieru Jia**, Yudong Liang, Xinyan Liang. 3D Portrait Stylization with Adaptive Semantic Editing Based on GAN Latent Codes, **Pattern Recognition, 2025 (CCF-B, SCI-1区)**.
+
 # 2024
-- [7] Honglin Yuan, Shiyun Lai, Xingfeng Li, Jian Dai, **Yuan Sun#**, Zhenwen Ren#, [Robust Prototype Completion for Incomplete Multi-view Clustering](https://dl.acm.org/doi/abs/10.1145/3664647.3681397), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/hl-yuan/RPCIC)
-- [6] **Yuan Sun**, Kaiming Liu, Yongxiang Li, Zhenwen Ren, Jian Dai, Dezhong Peng, [Distribution Consistency Guided Hashing for Cross-Modal Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680633), **ACM MM 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-MM-DCGH)
-- [5] **Yuan Sun**, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu, [Robust Multi-View Clustering with Noisy Correspondence](https://ieeexplore.ieee.org/document/10595464), **IEEE Transactions on Knowledge and Data Engineering (TKDE) (CCF-A类)**. [Code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
-- [4] **Yuan Sun**, Yang Qin, Dezhong Peng, Zhenwen Ren, Chao Yang, Peng Hu, [Dual Self-Paced Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10517459), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. [Code](https://github.com/sunyuan-cs/DSPH)
-- [3] Kaiming Liu, Yunhong Gong, Yu Cao, Zhenwen Ren, Dezhong Peng, **Yuan Sun#**, [Dual Semantic Fusion Hashing for Multi-Label Cross-Modal Retrieval](https://www.ijcai.org/proceedings/2024/505), **IJCAI 2024 (CCF-A类)**. [Code](https://github.com/sunyuan-cs/24-IJCAI-DSFH)
-- [2] **Yuan Sun**, Jian Dai, Zhenwen Ren, Qilin Li, Dezhong Peng, [Relaxed Energy Preserving Hashing for Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10414409), **IEEE Transactions on Intelligent Transportation Systems (TITS) (中科院一区)**. [Code](https://github.com/sunyuan-cs/REPH_main)
-- [1] **Yuan Sun**, Jian Dai, Zhenwen Ren, Yingke Chen, Dezhong Peng, Peng Hu, [Dual Self-Paced Cross-Modal Hashing](https://ojs.aaai.org/index.php/AAAI/article/view/29441), **AAAI 2024 (CCF-A类)**.
+- [1] **Jieru Jia**, Jianchao Yang. [SSDViT: Exploring Siamese and Self Distillation in ViTs for Generalizable Person Re-identification.](https://ieeexplore.ieee.org/abstract/document/10887790), **International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 (CCF B会议，Oral)**. [Code](https://github.com/)
+- [2] Jiang Chang, Zelin Wang, **Jieru Jia**. [Enhancing Emotion Recognition in EEG Signals using Fractional Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10845993), ** International Conference of Signal Processing (ICSP) 2024 (Best Paper Award)**.
   
 # 2023
-- [4] **Yuan Sun**, Dezhong Peng, Zhenwen Ren, Discrete aggregation hashing for image set classification, **Expert Systems with Applications (中科院一区)**.
-- [3] **Yuan Sun**, Dezhong Peng, Jian Dai, Zhenwen Ren, [Stepwise Refinement Short Hashing for Image Retrieval](https://openreview.net/pdf?id=9ol1HoBfir), **ACM MM 2023 (CCF-A类)**.
-- [2] **Yuan Sun**, Zhenwen Ren, Peng Hu, Dezhong Peng, Xu Wang, [Hierarchical Consensus Hashing for Cross-Modal Retrieval](https://ieeexplore.ieee.org/document/10119165), **IEEE Transactions on Multimedia (TMM) (中科院一区)**. **(ESI Highly Cited Paper)**. [Code](https://github.com/sunyuan-cs/HCCH)  
-- [1] **Yuan Sun**, Xu Wang, Dezhong Peng, Zhenwen Ren, Xiaobo Shen, [Hierarchical Hashing Learning for Image Set Classification](https://ieeexplore.ieee.org/document/10061433), **IEEE Transactions on Image Processing (TIP) (CCF-A类)**.
+- [1] **Jieru Jia**, Shuorui Zhang, Qiuqi Ruan. [PCR: A Large-Scale Benchmark for Pig Counting in Real World](https://link.springer.com/chapter/10.1007/978-981-99-8462-6_19), **Chinese Conference on Pattern Recognition and Computer Vision (PRCV)**.
 
-# 2022
-- [1] **Yuan Sun**, Dezhong, Haixiao Huang, Zhenwen Ren, [Feature and Semantic Views Consensus Hashing for Image Set Classification](https://dl.acm.org/doi/abs/10.1145/3503161.3547876), **ACM MM 2022 (CCF-A类)**.
+# 2020
+- [1] **Jieru Jia**, Qiuqi Ruan, Yi Jin, Gaoyun An, Shiming Ge. View-specific subspace learning and re-ranking for semi-supervised person re-identification, **Pattern Recognition 2020 （SCI 1区, CCF-B)**.
 
+# 2019
+- [1] **Jieru Jia**, Qiuqi Ruan, Timothy M. Hoespedales. [Frustratingly Easy Person Re-Identification: Generalizing Person Re-ID in Practice](https://arxiv.org/abs/1905.03422), **British Machine Vision Conference (BMVC) 2019**.
+
+# 2017
+- [1] **Jieru Jia**, Qiuqi Ruan, Gaoyun An, Yi Jin. Multiple metric learning with query adaptive weights and multi-task re-weighting for person re-identification, **Computer Vision and Image Understanding, 2017 （SCI 2区）**.
+
+# 2016
+- [1] **Jieru Jia**, Qiuqi Ruan, Yi Jin. Geometric Preserving Local Fisher Discriminant Analysis for person re-identification, **Neurocomputing, 2016, 205: 92-105. （SCI 2区）**.
+- [2] **Jieru Jia**, Qiuqi Ruan. Cross-view analysis by multi-feature fusion for person re-identification, **International Conference of Signal Processing**.
+
+# 2014
+- [1] **Jieru Jia**, Qiuqi Ruan. Gait Recognition based on Contourlet transform and Collaborative Representation, **IEEE International Conference of Signal Processing**.
 
 
 # 🎖 Honors and Awards
-- 中国自动化学会科技进步三等奖.
-- 中国电子学会电子信息教学成果二等奖.
-- 中国兵器装备集团科技进步二等奖.
-- 四川大学“海纳博士后”支持计划 (15人).
-- 中国自动化学会高等教育教学成果评价三等贡献教学成果.
-- 中国人工智能学会教学成果激励计划一类成果.
-- 中国自动化学会科技进步二等奖.
-- 四川省计算机学会年度优秀学生论文.
-- NCAA会议最佳论文提名奖.
-- 成都市技术能手.
+- 山西大学“文瀛青年学者”人才计划，2025.
+- ICSP2024 International Conference on Signal Processing最佳论文,国际学术奖.
+- 2021年作为指导教师，指导学生完成了火眼一号-基于微光视觉增强技术的智慧城市用电安全预警平台，获2021年度山西省第十七届“兴晋挑战杯”大学生课外学术科技作品竞赛一等奖，并入选山西数字经济领域2023年度十大优秀成果.
 
 
 # 🙋 Services
@@ -131,8 +117,6 @@ redirect_from:
     - Journal of Artificial Intelligence & Control Systems.
   - Reviewer: IEEE TPAMI/TIP/TIFS/TMM/TKDE/TNNLS/TCYB/TCVST/TBD/TCSS/PR...
 
-
-     
 - Conferences:
   - AC/SPC:
     - NeurIPS 2026.
