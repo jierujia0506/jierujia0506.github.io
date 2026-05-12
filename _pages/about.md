@@ -18,6 +18,30 @@ redirect_from:
 
 [贾洁茹]([https://cs.scu.edu.cn/szdw/cxzx.htm](https://dig.sxu.edu.cn/xwz/td/sssds/6a27561d98c14ffe8836ad4849e5a254.htm))，博士，副教授，硕士生导师，CSIG交通视频专委会委员，中国计算机学会计算机视觉专业委员，山西大学文瀛青年学者。2019年9月毕业于北京交通大学信号与信息处理专业，曾获中国留学基金委CSC资助，赴英国爱丁堡大学School of Informatics联合培养，合作导师为国际迁移学习领域的权威专家Timothy Hospedales。近年来以第一作者在《Pattern Recognition》、《Neural Networks》、《Computer Vision and Image Understanding》、IJCAI、 ICASSP、《电子学报》、BMVC等国内外权威学术期刊与会议发表论文20余篇，提出的DualNorm、SSDViT、DiverseReID等工作受到领域同行的广泛认可。长期担任PR、CVIU、CVPR、AAAI、ECCV、BMVC、IJCNN、ICASSP、ICIG等国际期刊与会议的审稿人，担任AAAI2025、2026 程序委员。主要从事机器视觉和领域泛化相关理论和方法研究，目前主持国家级课题1项，省级项目2项，横向课题2项，专利转化项目1项。
 
+**科学研究:**
+
+一、主要研究方向：
+
+1、面向领域泛化的行人重识别关键技术研究
+
+2、机器视觉中的异构领域泛化问题研究；
+
+3、预训练视觉-语言大模型的下游适配（如提示学习等）；
+
+4、跨模态对齐；
+
+5、因果推理；
+
+6、持续学习（连续学习）。
+
+二、科研项目：
+- [1] 国家自然科学基金青年项目 行人重识别的领域泛化与关键技术研究（62106133）. 2022.01-2024.12
+- [2] 山西省基础研究计划面上项目 面向开放场景的行人重识别领域泛化机理与方法研究（202403021211226）. 2024.7-2027.7
+- [3] 横向课题 生猪自动计数系统开发 2021.5-2022.5 
+- [4] 专利转化 专利转化项目 一种生猪自动计数装置 2024.9-2025.9
+- [5] 横向课题 密集人群计数系统开发 2025.08-2026.8
+- [6] 山西省回国科教创新项目，基于知识蒸馏的增量学习方法及应用，237639901010/2026， 2025-065，2026 年 1 月至 2029 年 1 月
+
 **招生信息:**
 
 1.招收计算机科学与技术、计算机技术、软件工程、人工智能等学科硕士（学硕专硕均可）。
@@ -33,6 +57,7 @@ redirect_from:
 3.学习态度端正，具备一定的理论基础与代码能力。
 
 如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，**欢迎联系（Email: jierujia@sxu.edu.cn）**。
+
 
 
 
@@ -67,7 +92,6 @@ redirect_from:
 
 
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?hl=zh-CN&user=DwuvUCkAAAAJ)
-(# denotes the corresponding author)
 # 2026
 - [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan. GroupSD: Self-Distillation from Intermediate ViT Layers for 
 Generalizable Person Re-identification, IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.
