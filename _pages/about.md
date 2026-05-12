@@ -16,20 +16,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Yuan Sun (孙元)** is currently a postdoctoral research fellow (postdoc) at the National Key Laboratory of Fundamental Algorithms and Models for Engineering Simulation, Sichuan University, and works with Prof. [Xiaogang Deng](https://cs.scu.edu.cn/info/1359/16695.htm). He received his Ph.D. degree from Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) , Prof. [Peng Hu](https://penghu-cs.github.io/), and Jian Dai. He received his Master Degree, advised by Prof. [Zhenwen Ren](https://unix8.net/). His research interests mainly focus on  [Hashing Learning](https://github.com/caoyuan57/Hashing) and [Noisy Correspondence](https://github.com/QinYang79/Awesome-Noisy-Correspondence). Recently, he has been conducting research related to Multi-modal Learning and [AI for PDEs](https://github.com/WillDreamer/Awesome-AI4CFD).
-- **Multi-modal Learning**: It investigates multimodal fusion mechanisms or cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources for clustering, classification, and retrieval tasks.
-- **AI for PDEs**: It utilizes Physics-Informed Neural Networks (PINNs) to solve forward and inverse PDE problems as well as their applications, such as nuclear reactor thermal hydraulics.
+[贾洁茹]([https://cs.scu.edu.cn/szdw/cxzx.htm](https://dig.sxu.edu.cn/xwz/td/sssds/6a27561d98c14ffe8836ad4849e5a254.htm))，博士，副教授，硕士生导师，CSIG交通视频专委会委员，中国计算机学会计算机视觉专业委员，山西大学文瀛青年学者。2019年9月毕业于北京交通大学信号与信息处理专业，曾获中国留学基金委CSC资助，赴英国爱丁堡大学School of Informatics联合培养，合作导师为国际迁移学习领域的权威专家Timothy Hospedales。近年来以第一作者在《Pattern Recognition》、《Neural Networks》、《Computer Vision and Image Understanding》、IJCAI、 ICASSP、《电子学报》、BMVC等国内外权威学术期刊与会议发表论文20余篇，提出的DualNorm、SSDViT、DiverseReID等工作受到领域同行的广泛认可。长期担任PR、CVIU、CVPR、AAAI、ECCV、BMVC、IJCNN、ICASSP、ICIG等国际期刊与会议的审稿人，担任AAAI2025、2026 程序委员。主要从事机器视觉和领域泛化相关理论和方法研究，目前主持国家级课题1项，省级项目2项，横向课题2项，专利转化项目1项。
 
-[孙元](https://cs.scu.edu.cn/szdw/cxzx.htm)，入选四川大学“海纳博士后”资助计划（15名），主要研究方向为多模态智能（多模态学习、图像融合、四足机器人等）与AI for CFD （智能科学计算、物理信息人工智能等）。近年来，共发表学术论文50余篇，其中以第一作者或通讯作者在TIP、TKDE、CVPR、ICML等人工智能领域中科院一区和CCF-A类会议上发表论文30余篇，入选ESI高被引2篇，ICML 2025 Spotlight，CVPR 2025 Highlight，CVPR 2026 Highlight, ICML 2026 Spotlight各1篇。获得中国电子学会电子信息教学成果二等奖（序2）、中国自动化学会科技进步奖二等奖（序5）、三等奖（序4）、中国兵装集团科技进步二等奖（序5）、中国人工智能学会教学成果一等奖（序4）、中国自动化学会高等教育教学成果三等奖（序5）、四川省计算机学会年度优秀学生论文、成都市技术能手称号（成都市人力资源保障局颁发）。主持四川省自然科学基金项目、美的合作开发项目等共计5项，授权发明专利共10余项。担任Pattern Recognition的副编辑（AE），Journal of Artificial Intelligence & Control Systems 期刊青年编委，多次担任CCF-A类会议NeurIPS/ACL/IJCAI的领域主席(AC)/高级程序委员(SPC)，长期担任ICLR、CVPR、ICML、TPAMI、TIP等30余个顶级期刊/会议审稿人。**协助指导博士生/硕士生/本科生以第一作者发表CCF-A类论文近20篇。**
+**招生信息:**
+1.招收计算机科学与技术、计算机技术、软件工程、人工智能等学科硕士（学硕专硕均可）。
+2.课题组算力充足，能够充分保证每位同学的深度学习实验需求，并可根据学生个人的研究兴趣、职业规划定制个性化培养方案。氛围轻松融洽，成果产出稳定（23级硕士杨建超、解惠迪均获国家奖学金），**热烈欢迎有科研抱负的年轻学者加入！**
 
+**招生要求:** 
+1.对科研工作有着浓厚兴趣；2.勤奋务实、主动性高；3.学习态度端正，具备一定的理论基础与代码能力。
 
-**招生要求:** 1.对科研工作富有激情；2.勤奋务实、主动性高；3.有扎实的数学/英语功底。
-
-如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，欢迎联系（Email: sunyuan_work@163.com, sunyuan@scu.edu.cn）。
-
-**计划每年辅导3-5名本科生进行科研训练，欢迎有兴趣的同学随时报名！**
-
-
+如对我研究方向感兴趣，并有意和我一起做研究的研究生/本科生，欢迎联系（Email: jierujia@sxu.edu.cn）。
 
 
 
