@@ -70,17 +70,17 @@ redirect_from:
 
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?hl=zh-CN&user=DwuvUCkAAAAJ)
 # 2026
-- [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan. GroupSD: Self-Distillation from Intermediate ViT Layers for Generalizable Person Re-identification, IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.
+- [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan.[GroupSD: Self-Distillation from Intermediate ViT Layers for Generalizable Person Re-identification](https://ieeexplore.ieee.org/document/11442651), IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.[Code](https://github.com/sxureid-group/GroupSD)
 - [2] Tao Yan,Yingying Wang,Yuhua Qian,Jiangfeng Zhang,Feijiang Li,Peng Wu,Lu Chen,**Jieru Jia**,Xiaoying Guo. M3D: A Benchmark Dataset and Model for Microscopic 3D Shape Reconstruction, **IEEE Transactions on Image Processing.（CCF-A, 一区Top）**.
 - [3] **Jieru Jia**, Huidi Xie, Yuhua Qian, Yantao Song, Tao Yan, Lichao Zhang, Chao Li. FracMix:A Fractional Fourier Based Augmentationfor Generalizable Person Re-Identification, **IEEE Signal Processing Letters 2026，（CCF-B，SCI-2区）**.
 
 # 2025
-- [1] **Jieru Jia**, Huidi Xie, Qin Huang, Yantao Song, Peng Wu. [DiverseReID: Towards generalizable person re-identification via Dynamic Style Hallucination and decoupled domain experts,](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004824), **Neural Networks, 2025, 189(107602). （CCF-B，SCI 1区）**. [Code](https://github.com/)
+- [1] **Jieru Jia**, Huidi Xie, Qin Huang, Yantao Song, Peng Wu. [DiverseReID: Towards generalizable person re-identification via Dynamic Style Hallucination and decoupled domain experts](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004824), **Neural Networks, 2025, 189(107602). （CCF-B，SCI 1区）**. [Code](https://github.com/sxureid-group/DiverseReID)
 - [2] Tao Yan, Yingying Wang, Jiangfeng Zhang, Yuhua Qian*, **Jieru Jia**, Lu Chen, Feijiang Li. [Frequency-Aware Deep Depth from Focus, International Joint Conference on Artificial Intelligence](https://dl.acm.org/doi/abs/10.24963/ijcai.2025/241), **IJCAI 2025 (CCF-A)**.
 - [3] Yantao Song, Xiangchong Jia, **Jieru Jia**, Yudong Liang, Xinyan Liang. 3D Portrait Stylization with Adaptive Semantic Editing Based on GAN Latent Codes, **Pattern Recognition, 2025 (CCF-B, SCI-1区)**.
 
 # 2024
-- [1] **Jieru Jia**, Jianchao Yang. [SSDViT: Exploring Siamese and Self Distillation in ViTs for Generalizable Person Re-identification.](https://ieeexplore.ieee.org/abstract/document/10887790), **International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 (CCF B会议，Oral)**. [Code](https://github.com/)
+- [1] **Jieru Jia**, Jianchao Yang. [SSDViT: Exploring Siamese and Self Distillation in ViTs for Generalizable Person Re-identification.](https://ieeexplore.ieee.org/abstract/document/10887790), **International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024 (CCF B会议，Oral)**. [Code](https://github.com/sxureid-group/SSDViT)
 - [2] Jiang Chang, Zelin Wang, **Jieru Jia**. [Enhancing Emotion Recognition in EEG Signals using Fractional Fourier Transform](https://ieeexplore.ieee.org/abstract/document/10845993), ** International Conference of Signal Processing (ICSP) 2024 (Best Paper Award)**.
   
 # 2023
