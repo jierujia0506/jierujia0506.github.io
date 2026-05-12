@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[贾洁茹]([https://cs.scu.edu.cn/szdw/cxzx.htm](https://dig.sxu.edu.cn/xwz/td/sssds/6a27561d98c14ffe8836ad4849e5a254.htm))，博士，副教授，硕士生导师，CSIG交通视频专委会委员，中国计算机学会计算机视觉专业委员，山西大学文瀛青年学者。2019年9月毕业于北京交通大学信号与信息处理专业，曾获中国留学基金委CSC资助，赴英国爱丁堡大学School of Informatics联合培养，合作导师为国际迁移学习领域的权威专家Timothy Hospedales。近年来以第一作者在《Pattern Recognition》、《Neural Networks》、《Computer Vision and Image Understanding》、IJCAI、 ICASSP、《电子学报》、BMVC等国内外权威学术期刊与会议发表论文20余篇，提出的DualNorm、SSDViT、DiverseReID等工作受到领域同行的广泛认可。长期担任PR、CVIU、CVPR、AAAI、ECCV、BMVC、IJCNN、ICASSP、ICIG等国际期刊与会议的审稿人，担任AAAI2025、2026 程序委员。主要从事机器视觉和领域泛化相关理论和方法研究，目前主持国家级课题1项，省级项目2项，横向课题2项，专利转化项目1项。
+[贾洁茹]([https://dig.sxu.edu.cn/xwz/td/sssds/6a27561d98c14ffe8836ad4849e5a254.htm])，博士，副教授，硕士生导师，CSIG交通视频专委会委员，中国计算机学会计算机视觉专业委员，山西大学文瀛青年学者。2019年9月毕业于北京交通大学信号与信息处理专业，曾获中国留学基金委CSC资助，赴英国爱丁堡大学School of Informatics联合培养，合作导师为国际迁移学习领域的权威专家Timothy Hospedales。近年来以第一作者在《Pattern Recognition》、《Neural Networks》、《Computer Vision and Image Understanding》、IJCAI、 ICASSP、《电子学报》、BMVC等国内外权威学术期刊与会议发表论文20余篇，提出的DualNorm、SSDViT、DiverseReID等工作受到领域同行的广泛认可。长期担任PR、CVIU、CVPR、AAAI、ECCV、BMVC、IJCNN、ICASSP、ICIG等国际期刊与会议的审稿人，担任AAAI2025、2026 程序委员。主要从事机器视觉和领域泛化相关理论和方法研究，目前主持国家级课题1项，省级项目2项，横向课题2项，专利转化项目1项。
 
 **科学研究:**
 
