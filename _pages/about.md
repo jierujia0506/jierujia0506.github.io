@@ -111,21 +111,14 @@ redirect_from:
 
 # 🙋 Services
 - Journals:
-  - Associate Editor:
-    - Pattern Recognition (2026-).
-  - Young Editorial Board Member:
-    - Journal of Artificial Intelligence & Control Systems.
-  - Reviewer: IEEE TPAMI/TIP/TIFS/TMM/TKDE/TNNLS/TCYB/TCVST/TBD/TCSS/PR...
+  - Reviewer: IEEE TPAMI/TMM/TCVST/NN...
 
 - Conferences:
   - AC/SPC:
-    - NeurIPS 2026.
-    - ACL 2025, IJCAI 2025.
-    - ICARM 2024.
+    - AAAI 2026.
+    - AAAI 2025.
+    - ICSP 2024
   - Reviewer:
-    - AAAI 2026, ICLR 2026, CVPR 2026, IJCAI 2026, ICML 2026, KDD 2026, ACM MM 2026.
-    - ICML 2025, AAAI 2025, ICLR 2025, AISTATS 2025, ICASSP 2025, IJCNN 2025, KDD 2025, NeurIPS 2025, ICCV 2025, ACM MM 2025.
-    - ICML 2024, NeurIPS 2024, CVPR 2024, ECCV 2024, AAAI 2024, IJCAI 2024, ACM MM 2024, PRCV 2024, EMNLP 2024.
-    - ACM MM 2023, PRCV 2023.
-  - Workshop Chair:
-    - CVDL 2024.
+    - AAAI 2026, ACM MM 2026.
+    - AAAI 2025, ICASSP 2025, ACM MM 2025.
+    - ICASSP 2024, AAAI 2024, ACM MM 2024.
