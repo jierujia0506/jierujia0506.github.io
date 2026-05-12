@@ -62,39 +62,15 @@ redirect_from:
 
 
 # 🔥 News
-- \[**Publications**\]: May. 1, 2026, three papers were accepted by ICML 2026! Congrats to Chao, Xincheng, and Xingfeng! One paper was accepted as Spotlight (accept rate=2.2%)!  🎉
-- \[**Publications**\]: Apr. 28, 2026, honor to serve as Associate Editor for Pattern Recognition (中科院一区).
-- \[**Publications**\]: Feb. 27, 2026, one papers was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Jiali, Ruitao, and coauthors! 🎉
-- \[**Publications**\]: Feb. 21, 2026, three papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2026)! Congrats to Shilin, Qiya and Xingfeng! 🎉 One paper was accepted as Highlight 🎉
-- \[**Publications**\]: Nov. 8, 2025, six papers were accepted by AAAI 2026! Congrats to Chao, Yizhi, Ruitao, and coauthors! 🎉
-- \[**Publications**\]: Sep. 18, 2025, three papers were accepted by NeruIPS 2025! Congrats to Yanglin, Chao, and coauthors! One paper was accepted as Oral (accept rate=0.36%)!  🎉
-- \[**Publications**\]: July. 6, 2025, three papers were accepted by ACM MM 2025! Congrats to Yuhang, Junyu, Ao, and coauthors! 🎉
-- \[**Publications**\]: May. 1, 2025, four papers were accepted by ICML 2025! Congrats to Siyuan, Wenyuan, Ruitao, Honglin, and coauthors! One paper was accepted as Spotlight (accept rate=2.6%)!  🎉
-- \[**Publications**\]: Apr. 29, 2025, two papers were accepted by IJCAI 2025! Congrats to Xuyang, Deyin, and coauthors! 🎉
-- \[**Publications**\]: Apr. 5, 2025, one paper was accepted by Neural Networks! Congrats to Xingfeng and coauthors! 🎉
-- \[**Publications**\]: Feb. 27, 2025, two papers were accepted by IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2025)! Congrats to Siyuan and coauthors! One paper was accepted as Highlight (accept rate=13.5%)!  🎉
-- \[**Services**\]: Feb. 5, 2025, I have been invited to be an Area Chair（AC) for the ACL 2025. 🎉
-- \[**Publications**\]: Jan. 3, 2025, one paper was accepted by IEEE Transactions on Image Processing (TIP)! Congrats to Honglin (Master)! 🎉
-- \[**Publications**\]: Dec. 10, 2024, four papers were accepted by AAAI 2025! Congrats to Ruitao (Master), Shilin (Master), and coauthors! 🎉
-- \[**Services**\]: Nov. 29, 2024, I have been invited to be a Senior Program Committee（SPC) for the IJCAI 2025. 🎉
-- \[**Publications**\]: Jul. 16, 2024, three papers were accepted by ACM Multimedia (ACM MM 2024)! Congrats to Honglin (Master), Longan (Undergrad), and coauthors! 🎉
-- \[**Publications**\]: Jun. 23, 2024, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE)! 🎉
-- \[**Publications**\]: Apr. 20, 2024, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
-- \[**Publications**\]: Apr. 17, 2024, one paper was accepted by IJCAI 2024. Congrats to Kaiming (Master) and coauthors! 🎉
-- \[**Publications**\]: Jan. 3, 2024, one paper was accepted by IEEE Transactions on Intelligent Transportation Systems (TITS). 🎉
-- \[**Publications**\]: Sep. 22, 2023, one paper was accepted by AAAI 2024. 🎉
-- \[**Publications**\]: Sep. 12, 2023, one paper was accepted by Expert Systems With Applications (ESWA)! 🎉
-- \[**Publications**\]: Jul. 26, 2023, one paper was accepted by ACM Multimedia (ACM MM 2023)! 🎉
-- \[**Services**\]: Jul. 28, 2023, I have been invited to be a PC member for AAAI 2024. 🎉
-- \[**Publications**\]: Apr. 26, 2023, one paper was accepted by IEEE Transactions on Multimedia (TMM)! 🎉
-- \[**Publications**\]: Feb. 14, 2023, one paper was accepted by IEEE Transactions on Image Processing (TIP)! 🎉
-- \[**Publications**\]: Jun. 30, 2022, two papers were accepted by ACM Multimedia (ACM MM 2022)!  🎉
+- \[**Publications**\]: Apr. 27, 2026, IEEE Signal Processing Letters 2026 **ACCEPTED**🎉
+- \[**Publications**\]: Mar. 15, 2026, IEEE Transactions on Circuits and Systems for Video Technology（TCSVT 2026）**ACCEPTED** 🎉
+- \[**Publications**\]: May. 26, 2025, Neural Networks 2025 **ACCEPTED**🎉
+- \[**Publications**\]: Dec. 21, 2024, International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024) **ACCEPTED** 🎉
 
 
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?hl=zh-CN&user=DwuvUCkAAAAJ)
 # 2026
-- [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan. GroupSD: Self-Distillation from Intermediate ViT Layers for 
-Generalizable Person Re-identification, IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.
+- [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan. GroupSD: Self-Distillation from Intermediate ViT Layers for Generalizable Person Re-identification, IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.
 - [2] Tao Yan,Yingying Wang,Yuhua Qian,Jiangfeng Zhang,Feijiang Li,Peng Wu,Lu Chen,**Jieru Jia**,Xiaoying Guo. M3D: A Benchmark Dataset and Model for Microscopic 3D Shape Reconstruction, **IEEE Transactions on Image Processing.（CCF-A, 一区Top）**.
 - [3] **Jieru Jia**, Huidi Xie, Yuhua Qian, Yantao Song, Tao Yan, Lichao Zhang, Chao Li. FracMix:A Fractional Fourier Based Augmentationfor Generalizable Person Re-Identification, **IEEE Signal Processing Letters 2026，（CCF-B，SCI-2区）**.
 
