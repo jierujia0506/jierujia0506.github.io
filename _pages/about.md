@@ -67,7 +67,7 @@ redirect_from:
 - \[**Publications**\]: May. 26, 2025, Neural Networks 2025 **ACCEPTED**🎉
 - \[**Publications**\]: Dec. 21, 2024, International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024) **ACCEPTED** 🎉
 
-
+<span class='anchor' id='publications'></span>
 # 📝 Selected Publications [[Full List]](https://scholar.google.com/citations?hl=zh-CN&user=DwuvUCkAAAAJ)
 # 2026
 - [1] **Jieru Jia**, Jianchao Yang,  Yuhua Qian, Tao Yan, Qiuqi Ruan.[GroupSD: Self-Distillation from Intermediate ViT Layers for Generalizable Person Re-identification](https://ieeexplore.ieee.org/document/11442651), IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2026 (CCF-B, 一区Top)**.[Code](https://github.com/sxureid-group/GroupSD)
